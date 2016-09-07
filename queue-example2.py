@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+'''
+http://toastdriven.com/blog/2008/nov/11/brief-introduction-multiprocessing/
+'''
 import httplib2
 from multiprocessing import Lock, Process, Queue, current_process
 
